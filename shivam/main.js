@@ -1,4 +1,0 @@
-(function(){
-
-    let instagram = document
-})();
